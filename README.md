@@ -6,10 +6,11 @@ Welcome to **QuizMaster** - an interactive platform that enhances learning throu
 ## 🎥 Preview
 Check out a quick demo of QuizMaster in action:
 
-<video width="600" controls>
-  <source src="/preview.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
+
+https://github.com/user-attachments/assets/ba69e359-b079-4663-887d-51382a40bfae
+
+
+
 
 ## 🎯 Features
 - 🧑‍🏫 **Role-Based Access**: Teachers can create, edit, and manage quizzes, while students can participate and track their progress.
